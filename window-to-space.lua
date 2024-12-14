@@ -1,3 +1,5 @@
+-- Download Hammerspoon and put this script in your .hammerspoon/init.lua file.
+
 -- Loop through digits 1 to 9
 for i = 1, 9 do
     hs.hotkey.bind({"cmd", "shift"}, tostring(i), function()
