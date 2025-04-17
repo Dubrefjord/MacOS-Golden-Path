@@ -28,7 +28,7 @@ If you can live with installing those, you can make use of the keyboard first ac
   - `F3`, Mission Control
 
 - Tab between apps in a desktop
-  - `cmd tab` *-- altTab provides a better tab function, can be locked down to current space.*
+  - `cmd tab` *-- altTab provides a better tab function, can be locked down to current desktop.*
 
 - Jump in text
   - Word by word, `option arrow`
